@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="nand.svg"
+   inkscape:export-filename="/home/davi/git/wiRedPanda/app/resources/basic/nand.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2987">
+    <filter
+       id="filter3987"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3989"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite3991"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="-3.8815823"
+     inkscape:cy="33.529534"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="32.003906,43.21875"
+       id="guide2993" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#262626;fill-opacity:1;stroke:none"
+       d="M 32 15.439453 A 22 17.794409 0 0 0 10 33.234375 A 22 17.794409 0 0 0 10.035156 34.046875 C 10.02548 34.163991 10 34.276787 10 34.396484 L 10 54.279297 C 10 56.617102 11.882898 58.5 14.220703 58.5 L 49.779297 58.5 C 52.117102 58.5 54 56.617102 54 54.279297 L 54 34.396484 C 54 34.24534 53.970426 34.102027 53.955078 33.955078 A 22 17.794409 0 0 0 54 33.234375 A 22 17.794409 0 0 0 32 15.439453 z "
+       id="rect3901-8" />
+    <circle
+       style="fill:#262626;fill-opacity:1;stroke:none"
+       id="path4140"
+       cx="32"
+       cy="11.8"
+       r="6" />
+    <circle
+       style="fill:#fcfcfc;fill-opacity:1;stroke:none"
+       id="path4140-7"
+       cx="32"
+       cy="11.544972"
+       r="4" />
+    <path
+       style="fill:#fcfcfc;fill-opacity:1;stroke:none"
+       d="m 32,18.375868 a 19,15.367898 0 0 0 -19,15.367404 19,15.367898 0 0 0 0.03092,0.700955 C 13.022478,34.545905 13,34.643355 13,34.747287 l 0,17.173394 c 0,2.019014 1.625951,3.642904 3.644965,3.642904 l 30.71007,0 C 49.374049,55.563585 51,53.939695 51,51.920681 L 51,34.747287 C 51,34.61648 50.97414,34.493054 50.96083,34.365886 A 19,15.367898 0 0 0 51,33.743272 19,15.367898 0 0 0 32,18.375868 Z"
+       id="rect3901-8-1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

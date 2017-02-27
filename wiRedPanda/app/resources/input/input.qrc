@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/input">
+        <file>1.png</file>
+        <file>buttonOff.png</file>
+        <file>buttonOn.png</file>
+        <file>clock0.png</file>
+        <file>clock1.png</file>
+        <file>switchOff.png</file>
+        <file>switchOn.png</file>
+        <file>0.png</file>
+    </qresource>
+</RCC>

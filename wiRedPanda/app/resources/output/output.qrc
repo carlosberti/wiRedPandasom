@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/output">
+        <file>WhiteLedOff.png</file>
+        <file>BlueLedOff.png</file>
+        <file>GreenLedOff.png</file>
+        <file>PurpleLedOff.png</file>
+        <file>RedLedOff.png</file>
+        <file>BlueLedOn.png</file>
+        <file>WhiteLedOn.png</file>
+        <file>RedLedOn.png</file>
+        <file>PurpleLedOn.png</file>
+        <file>GreenLedOn.png</file>
+        <file>counter/counter_a.png</file>
+        <file>counter/counter_b.png</file>
+        <file>counter/counter_c.png</file>
+        <file>counter/counter_d.png</file>
+        <file>counter/counter_e.png</file>
+        <file>counter/counter_f.png</file>
+        <file>counter/counter_g.png</file>
+        <file>counter/counter_h.png</file>
+        <file>counter/counter_off.png</file>
+        <file>counter/counter_on.png</file>
+        <file>16cores/AquaLightLedOn.png</file>
+        <file>16cores/BlackLedOn.png</file>
+        <file>16cores/DarkGrayLedOn.png</file>
+        <file>16cores/DarkRedLedOn.png</file>
+        <file>16cores/GreenLedOn.png</file>
+        <file>16cores/HotPinkLedOn.png</file>
+        <file>16cores/LightGrayLedOn.png</file>
+        <file>16cores/LimeGreenLedOn.png</file>
+        <file>16cores/MagentaLedOn.png</file>
+        <file>16cores/NavyBlueLedOn.png</file>
+        <file>16cores/OrangeLedOn.png</file>
+        <file>16cores/PurpleLedOn.png</file>
+        <file>16cores/RedLedOn.png</file>
+        <file>16cores/RoyalLedOn.png</file>
+        <file>16cores/TealLedOn.png</file>
+        <file>16cores/WhiteLedOn.png</file>
+        <file>16cores/YellowLedOn.png</file>
+        <file>audio/som.wav</file>
+    </qresource>
+</RCC>
