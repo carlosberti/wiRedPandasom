@@ -27,6 +27,7 @@ with tf.Session() as sess:
     
     for node_id in top_k:
 	cont=cont+1
-	if(cont<=3):
+	if(cont<=3){
         	human_string = label_lines[node_id]
         	print(human_string)
+	}
