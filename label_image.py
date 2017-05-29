@@ -23,7 +23,6 @@ with tf.Session() as sess:
              {'DecodeJpeg/contents:0': image_data})
     
     top_k = predictions[0].argsort()[-len(predictions[0]):][::-1]
-	
-    for node_id in top_k
+
         human_string = label_lines[node_id]
-        print('%s' % (human_string))
+        print('%s' % human_string)
