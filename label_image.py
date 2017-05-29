@@ -25,5 +25,5 @@ with tf.Session() as sess:
 
     top_k = predictions[0].argsort()[-len(predictions[0]):][::-1]
     
-    human_string = label_lines[node_id]
-    print(human_string)
+    
+    print(label_lines[0])
