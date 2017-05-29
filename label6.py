@@ -25,4 +25,4 @@ with tf.Session() as sess:
 
     top_k = predictions[0].argsort()[-len(predictions[0]):][::-1]
     
-    print(label_lines[0][9:])
+    print(label_lines[0][10:])
